@@ -22,7 +22,7 @@ with equity to all stakeholders within the beverage industry.<p>
 ## Requirement
 ### Google BigQuery Access
 * Open chrome and login your google account for access [Google BigQuery](https://accounts.google.com/ServiceLogin/signinchooser?service=cloudconsole&passive=1209600&osid=1&continue=https%3A%2F%2Fconsole.cloud.google.com%2Fbigquery%3Fproject%3Dcharming-script-322807%26authuser%3D3&followup=https%3A%2F%2Fconsole.cloud.google.com%2Fbigquery%3Fproject%3Dcharming-script-322807%26authuser%3D3&flowName=GlifWebSignIn&flowEntry=ServiceLogin)
-* Create your project name e.g. IS655-A
+  * Create your project name <b>e.g. IS655-A</b>
 * Explore dataset and search `iowa liquor sales` and choose sales
 * Build query for show several features such as  date, store_name, city, county, category_name, pack, bottle_volume_ml, state_bottle_cost, state_bottle_retail, 
 bottles_sold, sale_dollars, volume_sold_liters and volume_sold_gallons limit on 1000 rows
@@ -62,7 +62,7 @@ bottles_sold, sale_dollars, volume_sold_liters and volume_sold_gallons limit on 
 
 ## Schema
 * <b>Date</b> : date of order 
-* <b>Store name</b> : name of store who ordered the liquor, 
+* <b>Store name</b> : name of store who ordered the liquor 
 * <b>City</b> : city where the store who ordered the liquor is located 
 * <b>County</b> : county where the store who ordered the liquor is located 
 * <b>Category name</b> : category of the liquor ordered 
