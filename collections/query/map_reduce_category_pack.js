@@ -1,5 +1,5 @@
 /* create function to map category and pack  */
-var categoryPack = function() {
+var mapCategoryPack = function() {
 	emit(this.category, this.pack);
 };
 
@@ -10,7 +10,7 @@ var reduceCategoryPack = function(keyCategoryName, valuesPack) {
 
 /* create MapReduce */
 db.iowa_liquor_sales.mapReduce (
-	categoryPack,
+	mapCategoryPack,
 	reduceCategoryPack,
 	{ out: "map_reduce_category_pack" }
 )
