@@ -17,6 +17,3 @@ db.iowa_liquor_sales.mapReduce (
 
 /* check result */
 db.map_reduce_city_pack.find().pretty()
-
-	
-	
