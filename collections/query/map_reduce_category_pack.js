@@ -1,6 +1,6 @@
 /* create function to map category and pack  */
 var mapCategoryPack = function() {
-	emit(this.category, this.pack);
+	emit(this.category_name, this.pack);
 };
 
 /* create function to reduce category and pack */
