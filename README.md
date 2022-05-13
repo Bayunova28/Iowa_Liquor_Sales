@@ -60,8 +60,8 @@ bottles_sold, sale_dollars, volume_sold_liters and volume_sold_gallons limit on 
 * Install package your MongoDB database `"C:\Program Files\MongoDB\Server\5.0\bin\mongod.exe" --dbpath="c:\data\db"`
 * Open directory of MongoDB service `cd C:\Program Files\MongoDB\Server\5.0\bin`
 * Start MongoDB service `C:\Program Files\MongoDB\Server\5.0\bin>mongo`
-* Show your database `>show dbs`
-* Create your database `>use iowa_liquor_sales`
+* Show your database `> show dbs`
+* Create your database `> use iowa_liquor_sales`
 * Open MongoDB Compass and connect your localhost
 * Finally, import `.csv` file from your local computer  
 
