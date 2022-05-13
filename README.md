@@ -6,8 +6,8 @@
 ## Table of Contents
 * [Background](#background)
 * [Requirement](#requirement)
+* [MapReduce](#mapreduce)
 * [Schema](#schema)
-* [Inspiration](#inspiration)
 
 ## Background
 <img src="https://github.com/Bayunova28/Iowa_Liquor_Sales/blob/master/iowa_liquor_cover.png" height="300" width="1000">
@@ -60,6 +60,29 @@ bottles_sold, sale_dollars, volume_sold_liters and volume_sold_gallons limit on 
 * Open MongoDB Compass and connect your localhost
 * Finally, import `.csv` file from your local computer  
 
+## MapReduce
+```js
+/* create map function */  
+var mapFunction = function() {
+  emit(this.attribute1, this.attribute2);
+};
+
+/* create reduce function */  
+var reduceFunction = function(keyAttribute1, valuesAttribute2) {
+  return Array.sum(valuesAttribute2);
+};
+
+/* apply MapReduce function */  
+db.collection.mapReduce (
+  mapFunction,
+  reduceFunction,
+  { out: "map_reduce_example" }
+)
+
+/* check MapReduce result */
+db.map_reduce_example.find().pretty()   
+```
+  
 ## Schema
 * <b>Date</b> : date of order 
 * <b>Store name</b> : name of store who ordered the liquor 
@@ -74,11 +97,3 @@ bottles_sold, sale_dollars, volume_sold_liters and volume_sold_gallons limit on 
 * <b>Sale dollars</b> : total cost of liquor order (number of bottles multiplied by the state bottle retail) 
 * <b>Volume sold liters</b> : total volume of liquor ordered in liters. (i.e. (Bottle Volume (ml) x Bottles Sold)/1,000)
 * <b>Volume sold gallons</b> : total volume of liquor ordered in gallons. (i.e. (Bottle Volume (ml) x Bottles Sold)/3785.411784) 
-
-## Inspiration
-* How much the selling price of liquor at Des Moines?
-* How much the selling price category of coffee liqueurs?  
-* How much the selling price of liquor at Nevada and Washington?
-* How much the selling price of liquor at Oakland and Washington?
-* How much the selling price category of Triple Sec?
-* How much the selling price of liquor at Washington? 
