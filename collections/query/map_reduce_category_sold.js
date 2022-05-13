@@ -1,6 +1,6 @@
 /* create function to map category and bottles sold  */
 var mapCategorySold = function() {
-	emit(this.category, this.bottles_sold);
+	emit(this.category_name, this.bottles_sold);
 };
 
 /* create function to reduce category and bottles sold */
