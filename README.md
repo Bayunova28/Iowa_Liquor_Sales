@@ -42,7 +42,7 @@ bottles_sold, sale_dollars, volume_sold_liters and volume_sold_gallons limit on 
   ```
 * Save the result to CSV (local file)
 
-### Installation MongoDB
+### Installation MongoDB Community Edition
 * Download the binaries from [MongoDB Download Center](https://www.mongodb.com/try/download/community?tck=docs_server) and choose `.msi` package
 * Run the MongoDB installer
 * Follow the MongoDB Community Edition installation wizard
