@@ -1,0 +1,427 @@
+[{
+  "_id": "O'Brien",
+  "value": 25
+},{
+  "_id": "MUSCATINE",
+  "value": 66
+},{
+  "_id": "Marshall",
+  "value": 96
+},{
+  "_id": "Linn",
+  "value": 808
+},{
+  "_id": "KEOKUK",
+  "value": 24
+},{
+  "_id": "STORY",
+  "value": 200
+},{
+  "_id": "MONONA",
+  "value": 36
+},{
+  "_id": "SAC",
+  "value": 12
+},{
+  "_id": "JEFFERSON",
+  "value": 20
+},{
+  "_id": "BENTON",
+  "value": 10
+},{
+  "_id": "Tama",
+  "value": 12
+},{
+  "_id": "Woodbury",
+  "value": 170
+},{
+  "_id": "Cerro Gord",
+  "value": 36
+},{
+  "_id": "JONES",
+  "value": 12
+},{
+  "_id": "Dallas",
+  "value": 196
+},{
+  "_id": "Montgomery",
+  "value": 6
+},{
+  "_id": "HOWARD",
+  "value": 12
+},{
+  "_id": "WASHINGTON",
+  "value": 45
+},{
+  "_id": "CARROLL",
+  "value": 36
+},{
+  "_id": "Bremer",
+  "value": 76
+},{
+  "_id": "Palo Alto",
+  "value": 12
+},{
+  "_id": "Jackson",
+  "value": 18
+},{
+  "_id": "Story",
+  "value": 228
+},{
+  "_id": "SIOUX",
+  "value": 18
+},{
+  "_id": "Marion",
+  "value": 136
+},{
+  "_id": "UNKNOWN",
+  "value": 44
+},{
+  "_id": "Polk",
+  "value": 1174
+},{
+  "_id": "JOHNSON",
+  "value": 270
+},{
+  "_id": "Clarke",
+  "value": 24
+},{
+  "_id": "Cerro Gordo",
+  "value": 156
+},{
+  "_id": "Kossuth",
+  "value": 38
+},{
+  "_id": "MAHASKA",
+  "value": 66
+},{
+  "_id": "Cass",
+  "value": 34
+},{
+  "_id": "Hamilton",
+  "value": 44
+},{
+  "_id": "Wapello",
+  "value": 28
+},{
+  "_id": "Benton",
+  "value": 12
+},{
+  "_id": "MARION",
+  "value": 6
+},{
+  "_id": "Dubuque",
+  "value": 127
+},{
+  "_id": "Webster",
+  "value": 60
+},{
+  "_id": "Poweshiek",
+  "value": 12
+},{
+  "_id": "DICKINSON",
+  "value": 32
+},{
+  "_id": "Iowa",
+  "value": 30
+},{
+  "_id": "POWESHIEK",
+  "value": 38
+},{
+  "_id": "WEBSTER",
+  "value": 26
+},{
+  "_id": "PLYMOUTH",
+  "value": 42
+},{
+  "_id": "Howard",
+  "value": 12
+},{
+  "_id": "Floyd",
+  "value": 24
+},{
+  "_id": "LEE",
+  "value": 72
+},{
+  "_id": "Warren",
+  "value": 36
+},{
+  "_id": "Mahaska",
+  "value": 36
+},{
+  "_id": "Scott",
+  "value": 425
+},{
+  "_id": "CLAY",
+  "value": 72
+},{
+  "_id": "Fayette",
+  "value": 12
+},{
+  "_id": "Muscatine",
+  "value": 118
+},{
+  "_id": "BUENA VIST",
+  "value": 24
+},{
+  "_id": "Des Moines",
+  "value": 64
+},{
+  "_id": "FLOYD",
+  "value": 12
+},{
+  "_id": "Wright",
+  "value": 24
+},{
+  "_id": "BLACK HAWK",
+  "value": 176
+},{
+  "_id": "DECATUR",
+  "value": 6
+},{
+  "_id": "Clay",
+  "value": 66
+},{
+  "_id": "DUBUQUE",
+  "value": 82
+},{
+  "_id": "CHEROKEE",
+  "value": 12
+},{
+  "_id": "Boone",
+  "value": 6
+},{
+  "_id": "POLK",
+  "value": 651
+},{
+  "_id": "KOSSUTH",
+  "value": 12
+},{
+  "_id": "Lucas",
+  "value": 12
+},{
+  "_id": "Harrison",
+  "value": 34
+},{
+  "_id": "Henry",
+  "value": 12
+},{
+  "_id": "Buena Vista",
+  "value": 54
+},{
+  "_id": "Clinton",
+  "value": 42
+},{
+  "_id": "FRANKLIN",
+  "value": 30
+},{
+  "_id": "POTTAWATTA",
+  "value": 146
+},{
+  "_id": "MADISON",
+  "value": 12
+},{
+  "_id": "LUCAS",
+  "value": 8
+},{
+  "_id": "CLINTON",
+  "value": 22
+},{
+  "_id": "BREMER",
+  "value": 36
+},{
+  "_id": "OSCEOLA",
+  "value": 22
+},{
+  "_id": "BOONE",
+  "value": 8
+},{
+  "_id": "Carroll",
+  "value": 54
+},{
+  "_id": "Franklin",
+  "value": 12
+},{
+  "_id": "WINNESHIEK",
+  "value": 30
+},{
+  "_id": "WOODBURY",
+  "value": 118
+},{
+  "_id": "Allamakee",
+  "value": 6
+},{
+  "_id": "HARRISON",
+  "value": 12
+},{
+  "_id": "CLARKE",
+  "value": 12
+},{
+  "_id": "UNION",
+  "value": 18
+},{
+  "_id": "Plymouth",
+  "value": 30
+},{
+  "_id": "LINN",
+  "value": 632
+},{
+  "_id": "Union",
+  "value": 30
+},{
+  "_id": "CLAYTON",
+  "value": 12
+},{
+  "_id": "MARSHALL",
+  "value": 92
+},{
+  "_id": "WAPELLO",
+  "value": 52
+},{
+  "_id": "DALLAS",
+  "value": 22
+},{
+  "_id": "Calhoun",
+  "value": 12
+},{
+  "_id": "JASPER",
+  "value": 30
+},{
+  "_id": "Clayton",
+  "value": 72
+},{
+  "_id": "ALLAMAKEE",
+  "value": 24
+},{
+  "_id": "Dickinson",
+  "value": 30
+},{
+  "_id": "Black Hawk",
+  "value": 273
+},{
+  "_id": "GUTHRIE",
+  "value": 12
+},{
+  "_id": "Pottawattamie",
+  "value": 252
+},{
+  "_id": "Sac",
+  "value": 106
+},{
+  "_id": "Delaware",
+  "value": 12
+},{
+  "_id": "Sioux",
+  "value": 36
+},{
+  "_id": "Lee",
+  "value": 72
+},{
+  "_id": "DAVIS",
+  "value": 12
+},{
+  "_id": "Winneshiek",
+  "value": 12
+},{
+  "_id": "LYON",
+  "value": 44
+},{
+  "_id": "Osceola",
+  "value": 84
+},{
+  "_id": "SHELBY",
+  "value": 3
+},{
+  "_id": "CRAWFORD",
+  "value": 12
+},{
+  "_id": "Johnson",
+  "value": 266
+},{
+  "_id": "Appanoose",
+  "value": 42
+},{
+  "_id": "CASS",
+  "value": 12
+},{
+  "_id": "Jefferson",
+  "value": 24
+},{
+  "_id": "Page",
+  "value": 18
+},{
+  "_id": "CERRO GORD",
+  "value": 164
+},{
+  "_id": "Lyon",
+  "value": 24
+},{
+  "_id": "FAYETTE",
+  "value": 20
+},{
+  "_id": "Cherokee",
+  "value": 28
+},{
+  "_id": "Chickasaw",
+  "value": 18
+},{
+  "_id": "Washington",
+  "value": 100
+},{
+  "_id": "Jasper",
+  "value": 46
+},{
+  "_id": "WINNEBAGO",
+  "value": 24
+},{
+  "_id": "HENRY",
+  "value": 12
+},{
+  "_id": "SCOTT",
+  "value": 360
+},{
+  "_id": "Jones",
+  "value": 94
+},{
+  "_id": "PALO ALTO",
+  "value": 36
+},{
+  "_id": "WRIGHT",
+  "value": 12
+},{
+  "_id": "Monona",
+  "value": 60
+},{
+  "_id": "Keokuk",
+  "value": 24
+},{
+  "_id": "OBRIEN",
+  "value": 18
+},{
+  "_id": "PAGE",
+  "value": 12
+},{
+  "_id": "TAMA",
+  "value": 12
+},{
+  "_id": "WARREN",
+  "value": 30
+},{
+  "_id": "Crawford",
+  "value": 24
+},{
+  "_id": "DES MOINES",
+  "value": 12
+},{
+  "_id": "Ida",
+  "value": 12
+},{
+  "_id": "IDA",
+  "value": 12
+},{
+  "_id": "Buchanan",
+  "value": 12
+},{
+  "_id": "Butler",
+  "value": 12
+}]

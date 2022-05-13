@@ -1,0 +1,703 @@
+[{
+  "_id": "BELLEVUE",
+  "value": 4
+},{
+  "_id": "Arnolds Park",
+  "value": 4
+},{
+  "_id": "GUTTENBERG",
+  "value": 4
+},{
+  "_id": "Ames",
+  "value": 437
+},{
+  "_id": "STRATFORD",
+  "value": 4
+},{
+  "_id": "Grimes",
+  "value": 44
+},{
+  "_id": "INDIANOLA",
+  "value": 109
+},{
+  "_id": "Swisher",
+  "value": 30
+},{
+  "_id": "FAIRFIELD",
+  "value": 120
+},{
+  "_id": "MONTICELLO",
+  "value": 41
+},{
+  "_id": "Ankeny",
+  "value": 1227
+},{
+  "_id": "OSKALOOSA",
+  "value": 172
+},{
+  "_id": "IOWA CITY",
+  "value": 599
+},{
+  "_id": "MONONA",
+  "value": 12
+},{
+  "_id": "Mount Pleasant",
+  "value": 3
+},{
+  "_id": "Central City",
+  "value": 4
+},{
+  "_id": "Onawa",
+  "value": 9
+},{
+  "_id": "Gowrie",
+  "value": 2
+},{
+  "_id": "West Union",
+  "value": 3
+},{
+  "_id": "Charles City",
+  "value": 4
+},{
+  "_id": "PELLA",
+  "value": 33
+},{
+  "_id": "Waukon",
+  "value": 4
+},{
+  "_id": "Ida Grove",
+  "value": 2
+},{
+  "_id": "Marion",
+  "value": 36
+},{
+  "_id": "Cresco",
+  "value": 2
+},{
+  "_id": "SHELDON",
+  "value": 1
+},{
+  "_id": "Iowa City",
+  "value": 420
+},{
+  "_id": "LE MARS",
+  "value": 30
+},{
+  "_id": "NEW HAMPTON",
+  "value": 2
+},{
+  "_id": "Hartley",
+  "value": 2
+},{
+  "_id": "CARROLL",
+  "value": 341
+},{
+  "_id": "ALGONA",
+  "value": 4
+},{
+  "_id": "LOST NATION",
+  "value": 4
+},{
+  "_id": "INDEPENDENCE",
+  "value": 4
+},{
+  "_id": "Clarinda",
+  "value": 4
+},{
+  "_id": "Grinnell",
+  "value": 65
+},{
+  "_id": "DECORAH",
+  "value": 96
+},{
+  "_id": "MASON CITY",
+  "value": 556
+},{
+  "_id": "Schleswig",
+  "value": 2
+},{
+  "_id": "MARION",
+  "value": 131
+},{
+  "_id": "Dubuque",
+  "value": 210
+},{
+  "_id": "Lemars",
+  "value": 8
+},{
+  "_id": "BANCROFT",
+  "value": 3
+},{
+  "_id": "Sumner",
+  "value": 1
+},{
+  "_id": "Bancroft",
+  "value": 18
+},{
+  "_id": "AMES",
+  "value": 953
+},{
+  "_id": "Graettinger",
+  "value": 4
+},{
+  "_id": "MT VERNON",
+  "value": 1152
+},{
+  "_id": "Muscatine",
+  "value": 9
+},{
+  "_id": "Des Moines",
+  "value": 3778
+},{
+  "_id": "Oskaloosa",
+  "value": 8
+},{
+  "_id": "Creston",
+  "value": 7
+},{
+  "_id": "Spirit Lake",
+  "value": 8
+},{
+  "_id": "Belmond",
+  "value": 4
+},{
+  "_id": "North Liberty",
+  "value": 2
+},{
+  "_id": "EAGLE GROVE",
+  "value": 8
+},{
+  "_id": "Milford",
+  "value": 216
+},{
+  "_id": "CRESTON",
+  "value": 38
+},{
+  "_id": "Mason City",
+  "value": 557
+},{
+  "_id": "MOUNT VERNON",
+  "value": 300
+},{
+  "_id": "SIGOURNEY",
+  "value": 12
+},{
+  "_id": "Mapleton",
+  "value": 2
+},{
+  "_id": "ATLANTIC",
+  "value": 2
+},{
+  "_id": "CLINTON",
+  "value": 81
+},{
+  "_id": "WATERLOO",
+  "value": 1058
+},{
+  "_id": "Larchwood",
+  "value": 6
+},{
+  "_id": "BETTENDORF",
+  "value": 485
+},{
+  "_id": "Cedar Rapids",
+  "value": 2790
+},{
+  "_id": "OTTUWMA",
+  "value": 4
+},{
+  "_id": "ROCK RAPIDS",
+  "value": 4
+},{
+  "_id": "OSCEOLA",
+  "value": 84
+},{
+  "_id": "GUTTENBURG",
+  "value": 4
+},{
+  "_id": "NASHUA",
+  "value": 4
+},{
+  "_id": "Panora",
+  "value": 4
+},{
+  "_id": "CHEROKEE",
+  "value": 80
+},{
+  "_id": "WINDSOR HEIGHTS",
+  "value": 1232
+},{
+  "_id": "Urbandale",
+  "value": 60
+},{
+  "_id": "Mt Pleasant",
+  "value": 36
+},{
+  "_id": "HAMPTON",
+  "value": 4
+},{
+  "_id": "RED OAK",
+  "value": 24
+},{
+  "_id": "OTTUMWA",
+  "value": 20
+},{
+  "_id": "Hawarden",
+  "value": 2
+},{
+  "_id": "ONAWA",
+  "value": 21
+},{
+  "_id": "SIBLEY",
+  "value": 19
+},{
+  "_id": "Johnston",
+  "value": 36
+},{
+  "_id": "MAQUOKETA",
+  "value": 18
+},{
+  "_id": "MANCHESTER",
+  "value": 36
+},{
+  "_id": "Sac City",
+  "value": 2
+},{
+  "_id": "GREENE",
+  "value": 4
+},{
+  "_id": "Lamoni",
+  "value": 4
+},{
+  "_id": "Hampton",
+  "value": 12
+},{
+  "_id": "Corning",
+  "value": 6
+},{
+  "_id": "WEST DES MOINES",
+  "value": 829
+},{
+  "_id": "Osceola",
+  "value": 12
+},{
+  "_id": "SANBORN",
+  "value": 8
+},{
+  "_id": "MARSHALLTOWN",
+  "value": 196
+},{
+  "_id": "Sibley",
+  "value": 3
+},{
+  "_id": "STORM LAKE",
+  "value": 30
+},{
+  "_id": "Knoxville",
+  "value": 66
+},{
+  "_id": "ORANGE CITY",
+  "value": 9
+},{
+  "_id": "COUNCIL BLUFFS",
+  "value": 649
+},{
+  "_id": "West Point",
+  "value": 6
+},{
+  "_id": "MILFORD",
+  "value": 66
+},{
+  "_id": "Waukee",
+  "value": 48
+},{
+  "_id": "Oelwein",
+  "value": 12
+},{
+  "_id": "Vinton",
+  "value": 64
+},{
+  "_id": "ClearLake",
+  "value": 1
+},{
+  "_id": "Cedar Falls",
+  "value": 146
+},{
+  "_id": "SPIRIT LAKE",
+  "value": 36
+},{
+  "_id": "Winterset",
+  "value": 2
+},{
+  "_id": "Algona",
+  "value": 1
+},{
+  "_id": "CENTERVILLE",
+  "value": 104
+},{
+  "_id": "Marshalltown",
+  "value": 66
+},{
+  "_id": "Cherokee",
+  "value": 6
+},{
+  "_id": "NORWALK",
+  "value": 30
+},{
+  "_id": "TOLEDO",
+  "value": 4
+},{
+  "_id": "Waverly",
+  "value": 4
+},{
+  "_id": "Melcher-Dallas",
+  "value": 3
+},{
+  "_id": "ROCK VALLEY",
+  "value": 4
+},{
+  "_id": "WEST POINT",
+  "value": 12
+},{
+  "_id": "Davenport",
+  "value": 2240
+},{
+  "_id": "Edgewood",
+  "value": 5
+},{
+  "_id": "MISSOURI VALLEY",
+  "value": 36
+},{
+  "_id": "Le Claire",
+  "value": 4
+},{
+  "_id": "ANITA",
+  "value": 8
+},{
+  "_id": "Anamosa",
+  "value": 60
+},{
+  "_id": "Guttenberg",
+  "value": 4
+},{
+  "_id": "Chariton",
+  "value": 5
+},{
+  "_id": "RIVERSIDE",
+  "value": 42
+},{
+  "_id": "Fairfield",
+  "value": 40
+},{
+  "_id": "MUSCATINE",
+  "value": 103
+},{
+  "_id": "NEWTON",
+  "value": 20
+},{
+  "_id": "CEDAR RAPIDS",
+  "value": 2838
+},{
+  "_id": "Tripoli",
+  "value": 4
+},{
+  "_id": "Sioux Rapids",
+  "value": 2
+},{
+  "_id": "Unknown",
+  "value": 180
+},{
+  "_id": "Remsen",
+  "value": 6
+},{
+  "_id": "BURLINGTON",
+  "value": 63
+},{
+  "_id": "KEOKUK",
+  "value": 108
+},{
+  "_id": "ADEL",
+  "value": 30
+},{
+  "_id": "Nevada",
+  "value": 4
+},{
+  "_id": "Cumming",
+  "value": 60
+},{
+  "_id": "Council Bluffs",
+  "value": 1307
+},{
+  "_id": "CEDAR FALLS",
+  "value": 322
+},{
+  "_id": "Ottumwa",
+  "value": 98
+},{
+  "_id": "WAUKON",
+  "value": 18
+},{
+  "_id": "MARENGO",
+  "value": 8
+},{
+  "_id": "DYERSVILLE",
+  "value": 4
+},{
+  "_id": "WASHINGTON",
+  "value": 55
+},{
+  "_id": "Harlan",
+  "value": 3
+},{
+  "_id": "Bondurant",
+  "value": 4
+},{
+  "_id": "Pleasant Hill",
+  "value": 49
+},{
+  "_id": "Clear Lake",
+  "value": 56
+},{
+  "_id": "WEBSTER CITY",
+  "value": 9
+},{
+  "_id": "Altoona",
+  "value": 142
+},{
+  "_id": "DUNLAP",
+  "value": 6
+},{
+  "_id": "CLEAR LAKE",
+  "value": 16
+},{
+  "_id": "WAUKEE",
+  "value": 56
+},{
+  "_id": "GRINNELL",
+  "value": 4
+},{
+  "_id": "LEMARS",
+  "value": 4
+},{
+  "_id": "NORA SPRINGS",
+  "value": 5
+},{
+  "_id": "SPENCER",
+  "value": 76
+},{
+  "_id": "Sioux City",
+  "value": 1457
+},{
+  "_id": "OELWEIN",
+  "value": 60
+},{
+  "_id": "Fort Madison",
+  "value": 9
+},{
+  "_id": "Bloomfield",
+  "value": 4
+},{
+  "_id": "MELCHER-DALLAS",
+  "value": 4
+},{
+  "_id": "West Des Moines",
+  "value": 848
+},{
+  "_id": "Burlington",
+  "value": 4
+},{
+  "_id": "SIOUX CITY",
+  "value": 330
+},{
+  "_id": "Anita",
+  "value": 2
+},{
+  "_id": "CHARITON",
+  "value": 60
+},{
+  "_id": "Bettendorf",
+  "value": 72
+},{
+  "_id": "Sigourney",
+  "value": 4
+},{
+  "_id": "Sheldon",
+  "value": 3
+},{
+  "_id": "ANKENY",
+  "value": 104
+},{
+  "_id": "Boone",
+  "value": 8
+},{
+  "_id": "CRESCO",
+  "value": 4
+},{
+  "_id": "POLK CITY",
+  "value": 4
+},{
+  "_id": "Coralville",
+  "value": 348
+},{
+  "_id": "State Center",
+  "value": 1
+},{
+  "_id": "Le Mars",
+  "value": 79
+},{
+  "_id": "CORALVILLE",
+  "value": 409
+},{
+  "_id": "Clinton",
+  "value": 22
+},{
+  "_id": "BOONE",
+  "value": 42
+},{
+  "_id": "CLARINDA",
+  "value": 22
+},{
+  "_id": "Carroll",
+  "value": 69
+},{
+  "_id": "Waterloo",
+  "value": 169
+},{
+  "_id": "Indianola",
+  "value": 60
+},{
+  "_id": "DUBUQUE",
+  "value": 530
+},{
+  "_id": "Mount Vernon",
+  "value": 4920
+},{
+  "_id": "Carlisle",
+  "value": 4
+},{
+  "_id": "Spencer",
+  "value": 11
+},{
+  "_id": "AVOCA",
+  "value": 4
+},{
+  "_id": "Rock Rapids",
+  "value": 2
+},{
+  "_id": "Blue Grass",
+  "value": 15
+},{
+  "_id": "Traer",
+  "value": 4
+},{
+  "_id": "Fort Atkinson",
+  "value": 2
+},{
+  "_id": "WALNUT",
+  "value": 18
+},{
+  "_id": "SIOUX RAPIDS",
+  "value": 4
+},{
+  "_id": "LARCHWOOD",
+  "value": 4
+},{
+  "_id": "Decorah",
+  "value": 42
+},{
+  "_id": "Emmetsburg",
+  "value": 10
+},{
+  "_id": "Missouri Valley",
+  "value": 2
+},{
+  "_id": "HAWARDEN",
+  "value": 4
+},{
+  "_id": "DENISON",
+  "value": 5
+},{
+  "_id": "CLIVE",
+  "value": 30
+},{
+  "_id": "TRIPOLI",
+  "value": 125
+},{
+  "_id": "Storm Lake",
+  "value": 2
+},{
+  "_id": "SAC CITY",
+  "value": 35
+},{
+  "_id": "Newton",
+  "value": 37
+},{
+  "_id": "FORT DODGE",
+  "value": 143
+},{
+  "_id": "Oakland",
+  "value": 4
+},{
+  "_id": "URBANDALE",
+  "value": 156
+},{
+  "_id": "FORT MADISON",
+  "value": 36
+},{
+  "_id": "WAVERLY",
+  "value": 70
+},{
+  "_id": "PLEASANT HILL",
+  "value": 18
+},{
+  "_id": "Rock Valley",
+  "value": 30
+},{
+  "_id": "Keokuk",
+  "value": 258
+},{
+  "_id": "IDA GROVE",
+  "value": 4
+},{
+  "_id": "LAKE CITY",
+  "value": 36
+},{
+  "_id": "Eldridge",
+  "value": 4
+},{
+  "_id": "DES MOINES",
+  "value": 3099
+},{
+  "_id": "ELDRIDGE",
+  "value": 20
+},{
+  "_id": "ALTOONA",
+  "value": 132
+},{
+  "_id": "Windsor Heights",
+  "value": 1094
+},{
+  "_id": "SWISHER",
+  "value": 18
+},{
+  "_id": "Fort Dodge",
+  "value": 22
+},{
+  "_id": "Perry",
+  "value": 2
+},{
+  "_id": "Washington",
+  "value": 152
+},{
+  "_id": "DAVENPORT",
+  "value": 1613
+},{
+  "_id": "WEST BURLINGTON",
+  "value": 60
+},{
+  "_id": "Leclaire",
+  "value": 96
+},{
+  "_id": "Lake Mills",
+  "value": 1
+}]
