@@ -4,19 +4,19 @@ var cityPack = function() {
 };
 
 /* create function to reduce city and pack */
-var reduceCityPark = function(keyCity, valuesPack) {
+var reduceCityPack = function(keyCity, valuesPack) {
 	return Array.sum(valuesPack);
 };
 
 /* create MapReduce */
 db.iowa_liquor_sales.mapReduce (
 	cityPack,
-	reduceCityPark,
-	{ out: "map_reduce_city_park" }
+	reduceCityPack,
+	{ out: "map_reduce_city_pack" }
 )
 
 /* check result */
-db.map_reduce_city_park.find().pretty()
+db.map_reduce_city_pack.find().pretty()
 
 	
 	
