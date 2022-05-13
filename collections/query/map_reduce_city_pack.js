@@ -1,5 +1,5 @@
 /* create function to map city and pack  */
-var cityPack = function() {
+var mapCityPack = function() {
 	emit(this.city, this.pack);
 };
 
@@ -10,7 +10,7 @@ var reduceCityPack = function(keyCity, valuesPack) {
 
 /* create MapReduce */
 db.iowa_liquor_sales.mapReduce (
-	cityPack,
+	mapCityPack,
 	reduceCityPack,
 	{ out: "map_reduce_city_pack" }
 )
