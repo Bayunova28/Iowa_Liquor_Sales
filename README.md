@@ -10,7 +10,7 @@
 * [Schema](#schema)
 
 ## Background
-<img src="https://github.com/Bayunova28/Iowa_Liquor_Sales/blob/master/iowa_liquor_cover.png" height="300" width="1000">
+<img src="https://github.com/Bayunova28/Iowa_Liquor_Sales/blob/master/cover.jpg" height="450" width="1000">
 <p align="justify">Since the repeal of prohibition in 1933, Iowa is one of 18 states that directly controls the sale and distribution of alcoholic beverages. 
 The Alcoholic Beverages Division (ABD) governs state and federal laws and regulations related to the sale and use of alcohol and tobacco products. On March 8, 1934, 
 Iowa was established as a "control state," assuming direct control over the wholesaling of all alcoholic liquor and wine. Currently, ABD wholesales alcoholic liquor 
