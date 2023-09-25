@@ -88,7 +88,7 @@ db.collection.mapReduce (
 db.map_reduce_example.find().pretty()   
 ```
   
-## Schema
+## Features
 * <b>Date</b> : date of order 
 * <b>Store name</b> : name of store who ordered the liquor 
 * <b>City</b> : city where the store who ordered the liquor is located 
