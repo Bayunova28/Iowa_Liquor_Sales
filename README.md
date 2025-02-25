@@ -23,29 +23,6 @@ with equity to all stakeholders within the beverage industry.<p>
 ### Google BigQuery Access
 * Open chrome and login your google account for access [Google BigQuery](https://accounts.google.com/ServiceLogin/signinchooser?service=cloudconsole&passive=1209600&osid=1&continue=https%3A%2F%2Fconsole.cloud.google.com%2Fbigquery%3Fproject%3Dcharming-script-322807%26authuser%3D3&followup=https%3A%2F%2Fconsole.cloud.google.com%2Fbigquery%3Fproject%3Dcharming-script-322807%26authuser%3D3&flowName=GlifWebSignIn&flowEntry=ServiceLogin)
 * Explore dataset and search `iowa liquor sales` and choose sales table
-* Build query for show several features such as  date, store_name, city, county, category_name, pack, bottle_volume_ml, state_bottle_cost, state_bottle_retail, 
-bottles_sold, sale_dollars, volume_sold_liters and volume_sold_gallons limit on 1000 rows
-  ```sql
-  SELECT 
-    date, 
-    store_name, 
-    city, 
-    county, 
-    category_name, 
-    pack, 
-    bottle_volume_ml, 
-    state_bottle_cost, 
-    state_bottle_retail, 
-    bottles_sold, 
-    sale_dollars, 
-    volume_sold_liters, 
-    volume_sold_gallons 
-  FROM 
-    bigquery - public - data.iowa_liquor_sales.sales 
-  LIMIT 
-    1000
-  ```
-* Save the result to CSV (local file)
 
 ### Installation MongoDB Community Edition
 * Download the binaries from [MongoDB Download Center](https://www.mongodb.com/try/download/community?tck=docs_server) and choose `.msi` package
@@ -87,7 +64,7 @@ db.collection.mapReduce (
 /* check MapReduce result */
 db.map_reduce_example.find().pretty()   
 ```
-  
+
 ## Features
 * <b>Date</b> : date of order 
 * <b>Store name</b> : name of store who ordered the liquor 
